@@ -26,7 +26,7 @@ include("connect.php");
        ?>
        :)
       </p>
-      <a href="logout.php">Logout</a>
+      <a href="home.html">CLICK TO START</a>
     </div>
 </body>
 </html>
